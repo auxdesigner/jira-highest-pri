@@ -1,0 +1,6 @@
+span[title=Highest] {
+	background: #CE0000; border-radius: 50%;
+}
+span[title=Highest] img {
+	filter: grayscale(100%) invert(1) contrast(200%);
+}
